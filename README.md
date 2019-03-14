@@ -3,7 +3,7 @@
 Please clone the repo and complete the exercise working in pairs!
 
 
-## Exercise
+## Exercise
 
 We need to implement a lambda function that:
 
