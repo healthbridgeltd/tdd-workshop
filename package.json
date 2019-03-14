@@ -1,0 +1,19 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "aws-sdk-mock": "4.3.1",
+    "jest": "24.5.0",
+    "jest-junit": "6.3.0",
+    "lambda-tester": "3.5.0",
+    "serverless": "1.38.0",
+    "serverless-offline": "4.9.1"
+  },
+  "dependencies": {
+    "aws-sdk": "2.422.0"
+  }
+}
