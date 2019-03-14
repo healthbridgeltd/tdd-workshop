@@ -11,6 +11,8 @@ We need to implement a lambda function that:
 * If the number is multiple of 3, the lambda function should return `Fizz`.
 * If the number is multiple of 5, it should return `Buzz`.
 * If the number is both multiple of 3 and 5, it should return `Fizzbuzz`.
+* If none of the above, return simply the number.
+* If there is any error, the deliver team should be emailed about it using SES (optional step, only if we have time).
 
 
 ## Considerations
